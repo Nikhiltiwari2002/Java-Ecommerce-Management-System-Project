@@ -1,0 +1,25 @@
+ECommerceProject/
+│
+├── src/
+│   └── com/
+│       └── ecommerce/
+│           │
+│           ├── Main.java
+│           │
+│           ├── model/
+│           │   ├── Product.java
+│           │   ├── Customer.java
+│           │   ├── Cart.java
+│           │   └── Order.java
+│           │
+│           ├── service/
+│           │   ├── ProductService.java
+│           │   ├── CartService.java
+│           │   ├── CustomerService.java
+│           │   └── OrderService.java
+│           │
+│           └── util/
+│               └── InputUtil.java
+│
+├── README.md
+└── .gitignore
